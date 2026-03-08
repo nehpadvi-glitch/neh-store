@@ -1,0 +1,363 @@
+[
+  {
+    "id": "dc9a8c40-7154-4d06-9336-264abe67379b",
+    "name": "Classic White Shirt",
+    "description": "Premium cotton white shirt with a modern fit. Perfect for both casual and formal occasions.",
+    "price": 899.0,
+    "original_price": 1299.0,
+    "category": "clothing",
+    "subcategory": "shirts",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "White",
+      "Blue",
+      "Black"
+    ],
+    "stock": 40,
+    "rating": 4.6,
+    "reviews_count": 128,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881007+00:00"
+  },
+  {
+    "id": "303b4537-98bd-46bf-b75f-5b57f4a63091",
+    "name": "Floral Summer Dress",
+    "description": "Lightweight floral print dress perfect for summer outings. Made with breathable fabric.",
+    "price": 1299,
+    "original_price": 1999,
+    "category": "clothing",
+    "subcategory": "dresses",
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Floral Pink",
+      "Floral Blue"
+    ],
+    "stock": 35,
+    "rating": 4.8,
+    "reviews_count": 89,
+    "is_featured": true,
+    "is_new_arrival": true,
+    "created_at": "2026-03-07T16:17:46.881022+00:00"
+  },
+  {
+    "id": "a59471dd-51e6-4b0e-95c2-cc817ab4ea53",
+    "name": "Slim Fit Chinos",
+    "description": "Comfortable slim fit chinos with stretch fabric. Great for everyday wear.",
+    "price": 999,
+    "original_price": 1499,
+    "category": "clothing",
+    "subcategory": "pants",
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Khaki",
+      "Navy",
+      "Black"
+    ],
+    "stock": 60,
+    "rating": 4.5,
+    "reviews_count": 234,
+    "is_featured": false,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881038+00:00"
+  },
+  {
+    "id": "9b7423d8-ccc8-4067-a595-caedf02af97a",
+    "name": "Oversized Hoodie",
+    "description": "Cozy oversized hoodie with kangaroo pocket. Premium fleece lining.",
+    "price": 1199,
+    "original_price": 1799,
+    "category": "clothing",
+    "subcategory": "hoodies",
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Grey",
+      "Black",
+      "Navy"
+    ],
+    "stock": 44,
+    "rating": 4.7,
+    "reviews_count": 156,
+    "is_featured": true,
+    "is_new_arrival": true,
+    "created_at": "2026-03-07T16:17:46.881044+00:00"
+  },
+  {
+    "id": "cff63439-5721-438b-a7b0-500b20b218cd",
+    "name": "Denim Jacket",
+    "description": "Classic denim jacket with vintage wash. A wardrobe essential.",
+    "price": 1599,
+    "original_price": 2499,
+    "category": "clothing",
+    "subcategory": "jackets",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Light Blue",
+      "Dark Blue"
+    ],
+    "stock": 30,
+    "rating": 4.6,
+    "reviews_count": 98,
+    "is_featured": false,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881049+00:00"
+  },
+  {
+    "id": "a898dcfe-f798-4296-9447-fc5d9d65d46a",
+    "name": "Classic White Sneakers",
+    "description": "Minimalist white leather sneakers. Comfortable and stylish for any occasion.",
+    "price": 1999,
+    "original_price": 2999,
+    "category": "footwear",
+    "subcategory": "sneakers",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800"
+    ],
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "stock": 40,
+    "rating": 4.8,
+    "reviews_count": 312,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881055+00:00"
+  },
+  {
+    "id": "d56a8c1e-ea84-445b-9f53-026c0fac4ba5",
+    "name": "Running Shoes Pro",
+    "description": "High-performance running shoes with cushioned sole. Lightweight and breathable.",
+    "price": 2499,
+    "original_price": 3499,
+    "category": "footwear",
+    "subcategory": "sports",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Red/Black",
+      "Blue/White"
+    ],
+    "stock": 25,
+    "rating": 4.7,
+    "reviews_count": 189,
+    "is_featured": true,
+    "is_new_arrival": true,
+    "created_at": "2026-03-07T16:17:46.881061+00:00"
+  },
+  {
+    "id": "c0d0fcd9-1a13-456b-97b7-e020caad21a8",
+    "name": "Leather Loafers",
+    "description": "Elegant leather loafers with cushioned insole. Perfect for formal occasions.",
+    "price": 1799,
+    "original_price": 2499,
+    "category": "footwear",
+    "subcategory": "formal",
+    "images": [
+      "https://images.unsplash.com/photo-1614252369475-531eba835eb1?w=800"
+    ],
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "stock": 35,
+    "rating": 4.5,
+    "reviews_count": 145,
+    "is_featured": false,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881068+00:00"
+  },
+  {
+    "id": "322b7859-5ac0-4bad-a0a0-345604f47845",
+    "name": "Strappy Block Heels",
+    "description": "Elegant strappy heels with comfortable block heel. Perfect for parties.",
+    "price": 1499,
+    "original_price": 2199,
+    "category": "footwear",
+    "subcategory": "heels",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800"
+    ],
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "colors": [
+      "Black",
+      "Nude",
+      "Red"
+    ],
+    "stock": 30,
+    "rating": 4.4,
+    "reviews_count": 78,
+    "is_featured": false,
+    "is_new_arrival": true,
+    "created_at": "2026-03-07T16:17:46.881075+00:00"
+  },
+  {
+    "id": "f29459a1-fabd-419a-bda9-cc6ec0f2d745",
+    "name": "Leather Crossbody Bag",
+    "description": "Compact leather crossbody bag with adjustable strap. Multiple compartments.",
+    "price": 899,
+    "original_price": 1399,
+    "category": "accessories",
+    "subcategory": "bags",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800"
+    ],
+    "sizes": null,
+    "colors": [
+      "Brown",
+      "Black",
+      "Tan"
+    ],
+    "stock": 50,
+    "rating": 4.6,
+    "reviews_count": 203,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881080+00:00"
+  },
+  {
+    "id": "91ebae6b-dbf0-4680-a97b-41987508418e",
+    "name": "Classic Aviator Sunglasses",
+    "description": "Timeless aviator sunglasses with UV protection. Metal frame.",
+    "price": 599,
+    "original_price": 899,
+    "category": "accessories",
+    "subcategory": "eyewear",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800"
+    ],
+    "sizes": null,
+    "colors": [
+      "Gold/Green",
+      "Silver/Blue"
+    ],
+    "stock": 70,
+    "rating": 4.5,
+    "reviews_count": 167,
+    "is_featured": false,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881085+00:00"
+  },
+  {
+    "id": "26f86d34-a1dd-43c9-9782-b355a362f135",
+    "name": "Minimalist Watch",
+    "description": "Elegant minimalist watch with leather strap. Japanese movement.",
+    "price": 1299,
+    "original_price": 1999,
+    "category": "accessories",
+    "subcategory": "watches",
+    "images": [
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800"
+    ],
+    "sizes": null,
+    "colors": [
+      "Black/Gold",
+      "Brown/Silver"
+    ],
+    "stock": 40,
+    "rating": 4.7,
+    "reviews_count": 234,
+    "is_featured": true,
+    "is_new_arrival": true,
+    "created_at": "2026-03-07T16:17:46.881089+00:00"
+  },
+  {
+    "id": "2cdffc19-ab68-4cda-9f70-ec021caa4087",
+    "name": "Leather Belt",
+    "description": "Premium leather belt with classic buckle. Adjustable size.",
+    "price": 399,
+    "original_price": 599,
+    "category": "accessories",
+    "subcategory": "belts",
+    "images": [
+      "https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=800"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "stock": 80,
+    "rating": 4.3,
+    "reviews_count": 145,
+    "is_featured": false,
+    "is_new_arrival": false,
+    "created_at": "2026-03-07T16:17:46.881099+00:00"
+  }
+]
